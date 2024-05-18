@@ -94,7 +94,7 @@
     ],
     "simi1": false,
     "autosticker": false,
-    "autoresposta": false,
+    "autoresposta": true,
     "jogos": true,
     "bangp": false
   }
